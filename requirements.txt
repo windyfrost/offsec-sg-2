@@ -1,0 +1,11 @@
+# HTTP session and dynamic osTicket form parsing
+requests>=2.31.0,<3.0
+beautifulsoup4>=4.12.0,<5.0
+
+# OpenSSH Ed25519 reconstruction and validation
+cryptography>=42.0.0,<47.0
+
+# Horizon3AI PDF image extraction
+# PyMuPDF >=1.24 provides the modern `pymupdf` import.
+PyMuPDF>=1.24.0,<2.0
+Pillow>=10.0.0,<13.0
